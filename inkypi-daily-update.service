@@ -1,0 +1,14 @@
+[Unit]
+Description=Daily InkyPi Calendar Update
+After=network-online.target inkypi.service
+Wants=network-online.target
+Requires=inkypi.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/inkypi-daily-update.sh
+TimeoutStartSec=10min
+RemainAfterExit=no
+
+[Install]
+WantedBy=multi-user.target
