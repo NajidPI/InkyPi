@@ -14,7 +14,7 @@ REFRESH_TIMEOUT=300
 DISPLAY_SETTLE_SECONDS=30
 
 # Change this if your InkyPi directory is somewhere else.
-INKYPI_DIR="/home/pi/InkyPi"
+INKYPI_DIR="/home/$SUDO_USER/InkyPi"
 
 
 # ============================================================
