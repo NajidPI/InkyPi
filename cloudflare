@@ -13,4 +13,4 @@ sudo apt-get update && sudo apt-get install cloudflared
 
 
 
-sudo cloudflared service install eyJhIjoiOTExNDE1NjlmN2UwZGI5ODRiMDY0NDkwMjA3M2ZmMTIiLCJ0IjoiMDBiZjg4YTMtNmE0MC00ZTBiLTg4NmQtZjE5ZjRkOTA3YTE1IiwicyI6IlpETTRNakJpTnpFdE1UUmpPUzAwTWpObExUZzNNelV0TlRsa00ySXlOelkwTXpNMSJ9
+sudo cloudflared service install <VERY-LONG-SECRET-TOKEN>
