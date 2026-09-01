@@ -1,5 +1,10 @@
 # Battery-Powered 13.3" E-Ink Calendar
 
+Link to amended repo:
+```
+https://github.com/NajidPI/InkyPiCal
+```
+
 ## Raspberry Pi 2B + Pimoroni Inky Impression + Waveshare Power Management HAT (B)
 
 > **Project status:** Development / hardware validation\
