@@ -5,6 +5,11 @@ Link to amended repo:
 https://github.com/NajidPI/InkyPiCal
 ```
 
+Link to amended waveshare repo:
+```
+https://github.com/NajidPI/Power-Management-HAT-B
+```
+
 ## Raspberry Pi 2B + Pimoroni Inky Impression + Waveshare Power Management HAT (B)
 
 > **Project status:** Development / hardware validation\
