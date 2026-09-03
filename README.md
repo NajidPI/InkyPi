@@ -1,11 +1,11 @@
 # Battery-Powered 13.3" E-Ink Calendar
 
-Link to amended repo:
+Link to amended InkyPi Pimoroni repo:
 ```
 https://github.com/NajidPI/InkyPiCal
 ```
 
-Link to amended waveshare repo:
+Link to amended Waveshare Power Management HAT repo:
 ```
 https://github.com/NajidPI/Power-Management-HAT-B
 ```
